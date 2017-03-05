@@ -1,0 +1,12 @@
+D:\Training\StackApplication\StackApplication\bin\Debug\StackApplication.exe.config
+D:\Training\StackApplication\StackApplication\bin\Debug\StackApplication.exe
+D:\Training\StackApplication\StackApplication\bin\Debug\StackApplication.pdb
+D:\Training\StackApplication\StackApplication\obj\Debug\StackApplication.csprojResolveAssemblyReference.cache
+D:\Training\StackApplication\StackApplication\obj\Debug\StackApplication.exe
+D:\Training\StackApplication\StackApplication\obj\Debug\StackApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\bin\Debug\StackApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\obj\Debug\StackApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\obj\Debug\StackApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\bin\Debug\StackApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\bin\Debug\StackApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StackApplication\StackApplication\obj\Debug\StackApplication.csprojResolveAssemblyReference.cache
